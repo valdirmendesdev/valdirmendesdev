@@ -12,7 +12,7 @@
 <a href="https://dev.to/valdirmendesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="valdirmendesdev" height="30" width="40" /></a>
 <a href="https://twitter.com/valdirmendesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valdirmendesdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valdir-mendes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valdir-mendes" height="30" width="40" /></a>
-<a href="https://instagram.com/valdirmendesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valdirmendesdev" height="30" width="40" /></a>
+<a href="https://instagram.com/valdirmendes.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valdirmendes.dev" height="30" width="40" /></a>
 <a href="https://hashnode.com/valdirmendesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="valdirmendesdev" height="30" width="40" /></a>
 </p>
 
